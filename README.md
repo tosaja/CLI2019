@@ -1,5 +1,5 @@
 # CLI2019
-The dataset for the 2019 Cuneiform Language Identification (CLI) shared task
+The dataset for the 2019 Cuneiform Language Identification (CLI) shared task organized as part of the <a href="https://sites.google.com/view/vardial2019/campaign">third VarDial Evaluation Campaign</a>.
 
 <br><br>
 
